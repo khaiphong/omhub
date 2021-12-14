@@ -1,6 +1,6 @@
-# omhub
+# OmHub
 
-A cloud-based Authentication and Authorization based on distributed <b>Kubernetes Datacenter</b> tied to Linux namespaces and cgroups, of Kafka microservice topics (Home, PersonaDB, PersonaAI, EIP, CHR, GSLP, etc) for streaming and distributed by userId mirror of directories (topics) at user private <b>MuHub</b>, distributed processing in OmHub at local ThankYou Clubs.
+OmHub is <b>Kubernetes distributed Datacenter</b> to enable KP-Platform as a <b>wholesome application</b> using Kafka event-driven microservices (Home, PersonaDB, PersonaAI, EIP, CHR, GSLP, etc) to provide required and changing functionalities of a holistic "<b>Persona</b>" "<a href="https://blog.khaiphong.io/2021/09/awareness.html#Section_1" target="_blank">Awareness, Dependent, Prajna / Kiến Tánh, Duyên Khởi, Bát Nhã</a> for streaming and distributed at user private <a href="https://github.com/khaiphong/muhub/" trget="_blank">MuHub</b> from selected GSLP (Global Service Local Presence) / ThankYou Clubs.
 
 Cloud-based distributed <b>OmHub</b> is designed for an efficient Eco System where relevant activities and services - securely categorised by networks of group activities - are injected for you in-part discover and in-part create the Real You. Just like required restrictions to standardise an Open-Container, we suggest three more restrictions to achieve an efficient system: (1) use immutable data in all nodes, (2) use ReactJS to design UI that you are only responsible for routing within your service, (3) use open-source <a href="https://github.com/khaiphong/personadb/" trget="_blank">PersonaDB</a> at manageable generations of nodes in the service under your control.
 
