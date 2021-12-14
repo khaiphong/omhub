@@ -1,4 +1,4 @@
-# omhub
+# OmHub
 
 A cloud-based Authentication and Authorization based on distributed <b>Kubernetes Datacenter</b> tied to Linux namespaces and cgroups, of Kafka microservice topics (Home, PersonaDB, PersonaAI, EIP, CHR, GSLP, etc) for streaming and distributed by userId mirror of directories (topics) at user private <b>MuHub</b>, distributed processing in OmHub at local ThankYou Clubs.
 
