@@ -1,5 +1,5 @@
 import Sidebar from './components/Sidebar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 import About from './pages/About';
 import Activities from './pages/Activities';
@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <Sidebar />
-      <Switch>
+      <Routes>
       <Route path='/' exact component={About} />
         <Route path='/about' exact component={About} />
         <Route path='/activities' exact component={Activities} />
@@ -22,7 +22,7 @@ function App() {
         <Route path='/services' exact component={Services} />
         <Route path='/services/directories' exact component={Directories} />
         <Route path='/services/allowNotifications' exact component={AllowNotifications} />
-      </Switch>
+      </Routes>
     </Router>
   );
 }
