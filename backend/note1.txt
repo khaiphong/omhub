@@ -1,0 +1,39 @@
+A business model of Web technologies via
+ A) MuHub: user private network of Home, Transportation, Business / data backup. 
+ B) OmHub: GSLP/ThankYou club for face-to-face meetings, broadcasting, business deals, etc. / service mesh, NSS, video chat server.
+ 
+ 1) KP-Web => Learn ReactJS: https://www.youtube.com/watch?v=Dorf8i6lCuk
+ Realtime Chat App: https://www.youtube.com/watch?v=EvSUJ5lUcBw
+ -> with react-fetch https://reactjs.org/server-components, we work directly with BadgerDB, then Pod and GraphQL servers. Ignore dgraph.
+ -> https://developer.okta.com/blog/2018/10/11/build-simple-web-app-with-express-react-graphql
+ ->https://github.com/dgraph-io/badger - an embeddable, persistent and fast key-value (KV) database,then look at distributed technology of Dgraph 
+ https://dgraph.io/blog/post/graphql-rest/
+  -> https://dgraph.io/learn/courses/messageboardapp/react/overview/introduction/
+
+Stabilize and stndardize KP Javascrips and ReactJS. Netflix built on ReactJS. Organize Mu wrapper pages like Netflix pages for complete accesses to all Activities, Relationships, Places, Intuition, EIP. Intuition and Prajna comprise of containerized myAwareness and mySamadhi plus beyond from information in the fields via cloud technologies and outside-the-box Prajna.
+
+Each microservice is a component dynamically injected on the page
+content via selected Services with props <Service injected = 'PersonaDB' />
+with delete button of Activities, Relationships, Places, Intuition, EIP.
+=> Make "Prajna Dialectic" as a universally epistemic objective from humanity upward. Each GSLP (100M = 50M or 2% KP, 50M KP & AwakeningBudh stocks).
+
+https://medium.com/front-end-field-guide/react-file-structure-55e94d15c3be
+https://levelup.gitconnected.com/top-lessons-learned-from-working-with-a-10x-developer-51de12383e25
+https://francescod.medium.com/a-new-breed-of-productivity-tools-emerges-6e58c01832cf
+
+Content Creator, Designveloper - https://dzone.com/users/3617486/huyentp.html
+ 
+Ref: React Sidebar with Dropdown Menu: https://www.youtube.com/watch?v=mN3P_rv8ad4
+Build and Deploy a React PWA: https://www.youtube.com/watch?v=IaJqMcOMuDM
+React js pwa tutorial: https://www.youtube.com/watch?v=bRoRikxgIew
+How to Make a React Progressive Web Application (PWA): https://www.codica.com/blog/how-to-create-pwa-with-react/
+Build a Simple Web App with Express, React and GraphQL: https://developer.okta.com/blog/2018/10/11/build-simple-web-app-with-express-react-graphql
+
+See if we can just barebone of ReactJS without Next.js as out own RectFramework for production, a fullstack framework for ReactJs:
+server-side rendering, search engine optimization, blending server-side and client-side, file-based rounting, full-stack capabilities such as server API in storing and getting data from database with authentications, etc with Node.js, static web side in Github then dynamic with BadgerDB:
+  => Next.js crash cource https://www.youtube.com/watch?v=MFuwkrseXVE
+     https://www.youtube.com/watch?v=mTz0GXj8NN0
+ Next.js 9.3+Data Fetching+Event https://www.youtube.com/watch?v=eWObYvG0-lI
+ 
+ 2) KP-Soldier: Nfp Sun Flower, TuNhan-HocPhat yogic flying, Soldier education fund, Export of democratic processes
+
