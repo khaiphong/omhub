@@ -39,14 +39,14 @@ const ToggleButton = styled.button`
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 16px;
-  width: 18px;
+  height: 18px;
+  width: 21px;
   background: transparent;
   border: none;
   cursor: pointer;
   padding-left: 0;
   box-sizing: border-box;
-`;
+  `;
 const ToggleLine = styled.div`
   width: 100%;
   height: 2px;
@@ -102,7 +102,6 @@ const Sidebar = () => {
           <p>OmHub</p>
           <MenuBars>
             <ToggleButton >
-              <ToggleLine />
               <ToggleLine />
               <ToggleLine />
             </ToggleButton>
